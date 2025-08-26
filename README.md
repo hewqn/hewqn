@@ -20,14 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
-**Frameworks & Libraries**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-</p>
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white) 
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
 
 **Tools & Environments**  
 <p>
