@@ -27,19 +27,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
 
-**Tools & Environments**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg#gh-dark-mode-only" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Adobe_After_Effects_CC_icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="40" height="40"/>
-</p>
-
+**Tools & Environments:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black) 
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?logo=autodesk&logoColor=white) 
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) 
+![Adobe CC](https://img.shields.io/badge/-Adobe%20CC-FF0000?logo=adobecreativecloud&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
 
 **Databases**  
 <p>
