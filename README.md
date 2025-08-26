@@ -6,7 +6,7 @@
 - 🎨🎼🤸‍♀️ Started **VFX editing** in 2018, played the **clarinet for 6 years** & did **gymnastics for 7 years**  
 - 📅 Seeking internships starting **May 2026!**
   
-🛠 **Tech Toolbox**
+🛠 **Tech Stack**
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
