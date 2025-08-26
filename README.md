@@ -35,7 +35,7 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black) 
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?logo=autodesk&logoColor=white) 
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) 
-![Adobe CC](https://img.shields.io/badge/-Adobe%20CC-FF0000?logo=adobecreativecloud&logoColor=white) 
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=Adobe-After-Effects&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
 
 **Databases**  
