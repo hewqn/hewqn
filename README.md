@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Hewan
 
-⚡ **Me in a Nutshell**
+🌰 **Me in a Nutshell**
 - 👩‍🎓 Third-year Software Engineering student @ University of Calgary, born and raised in Alberta  
 - 💻 Passionate about computational creativity, software development & research
 - 🎨🎼🤸‍♀️ Started **VFX editing** in 2018, played the **clarinet for 6 years** & did **gymnastics for 7 years**  
@@ -43,6 +43,5 @@
  
 📫 **How to reach me**
 - LinkedIn: https://www.linkedin.com/in/hewqn/ 
-- Email: hewan.gebremedhin@ucalgary.ca 
 
 
