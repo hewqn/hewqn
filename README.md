@@ -8,7 +8,7 @@
   
 🛠 **Tech Stack**
 
-**Languages**  
+**Languages:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -38,7 +38,7 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=Adobe-After-Effects&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
 
-**Databases**  
+**Databases:**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
