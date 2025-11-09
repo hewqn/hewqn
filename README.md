@@ -2,7 +2,7 @@
 
 🌰 **Me in a Nutshell**
 - 👩‍🎓 Third-year Software Engineering student @ University of Calgary, born and raised in Alberta  
-- 💻 Passionate about computational creativity, software development & research
+- 💻 Passionate about computational creativity, data automation, software development & research
 - 🎨🎼🤸‍♀️ Started **VFX editing** in 2018, played the **clarinet for 6 years** & did **gymnastics for 7 years**  
 - 📅 Seeking internships starting **Jan, May or Sept 2026!**
   
