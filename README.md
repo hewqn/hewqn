@@ -1,10 +1,10 @@
 # Hi, I'm Hewan!
 
-**Me in a Nutshell:**
+**Me:**
 - FSD Intern @ GDM Inc, SWE student @ UofC
 - Passionate about computational creativity, data analysis, full stack development & research
   
-**Tech Stack:**
+**Stack:**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" title="After Effects" />
@@ -70,5 +70,5 @@
   <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" title="WordPress" />
 </p>
 
-**How to reach me:**
+**Reach:**
 - LinkedIn: https://www.linkedin.com/in/hewqn/
