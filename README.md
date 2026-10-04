@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hewan
+# Hi, I'm Hewan!
 
 🌰 **Me in a Nutshell**
 - 👩‍🎓 Software Engineering student @ University of Calgary, born and raised in Alberta  
