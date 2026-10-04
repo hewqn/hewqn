@@ -70,5 +70,5 @@
   <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" title="WordPress" />
 </p>
 
-**How to reach me**
+**How to reach me:**
 - LinkedIn: https://www.linkedin.com/in/hewqn/
