@@ -6,42 +6,26 @@
   
 **Tech Stack:**
 
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<p align="center">⭐</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,java,cs" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,swift,angular" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,express,flask" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,dotnet,postgres,mysql,mongodb,supabase" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=elasticsearch,aws,azure,docker,linux,bash,git" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,figma,threejs,autocad,blender,ae" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://cdn.simpleicons.org/pandas/E70488" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/trello/0052CC" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/linear/5E6AD2" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/expo/9CA3AF" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/junit5/25A162" width="48" height="48" />
 </p>
 
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white) 
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
-
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black) 
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?logo=autodesk&logoColor=white) 
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=Adobe-After-Effects&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
- 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
- 
-**How to reach me**
-- LinkedIn: https://www.linkedin.com/in/hewqn/ 
-
-
+**How to reach me:**
+- LinkedIn: https://www.linkedin.com/in/hewqn/
