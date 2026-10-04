@@ -1,6 +1,6 @@
 # Hi, I'm Hewan!
 
-**Me in a Nutshell**
+**Me in a Nutshell:**
 - FSD Intern @ GDM Inc, SWE student @ UofC
 - Passionate about computational creativity, data analysis, full stack development & research
   
