@@ -6,7 +6,6 @@
   
 **Tech Stack:**
 
-<p align="center">⭐</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" title="After Effects" />
 </p>
